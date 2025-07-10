@@ -27,7 +27,7 @@ DL Proj/
 ## Features
 
 - Upload an image of an eye
-- Process the image using a pre-trained AI model
+- Process the image using Deep Learning Algorithms
 - Display the prediction results (healthy or diseased)
 - Show detailed classification and confidence scores
 
