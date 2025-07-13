@@ -83,7 +83,7 @@ After rotations and mirroring, the class imbalance is rectified, with a few thou
      source venv/bin/activate
      ```
 
-4. Install the required dependencies:
+4. Install  required dependencies:
    ```
    pip install -r requirements.txt
    ```
