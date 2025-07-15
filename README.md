@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy-Detection
+# Diabetic Retinopathy Detection
 
 This is a full-stack web application for  Diabetic Retinopathy Detection. The application consists of a React.js frontend and a Python FastAPI backend.
 
