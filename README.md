@@ -144,7 +144,7 @@ The application uses a pre-trained model (`dr_retinopathy_model.h5`) for detecti
 
 The current models return the following scores for binary classification (DR vs No DR) on the dataset.
 | Model | Accuracy |
-| :-----: | :-----: |
+| :----: | :----: |
 | Standard CNN (Training) | 82.2% |
 | Standard CNN (Validation) | 82.2% |
 | InceptionV3 (Training) | 86.0% |
